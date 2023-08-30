@@ -1,0 +1,3 @@
+Copyright 2023 Boopr Ltd. All Rights Reserved.
+
+This software and its associated documentation are proprietary to Boopr Ltd and are not to be copied, reproduced, or disclosed to others without the prior written consent of [Your Organization's Name]. They are not to be used, modified, or incorporated into any work or used in any way except as specifically agreed in writing by [Your Organization's Name].
